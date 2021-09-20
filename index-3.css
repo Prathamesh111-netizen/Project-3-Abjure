@@ -1,0 +1,30 @@
+body {
+    background-image: url("images/project-3.jpg");
+    background-size: cover;
+    font-family: 'Lobster', cursive;
+}
+.data-rep{
+    /* display: none; */
+    width: 60%;
+    margin : 0 auto ;
+    text-align: center;
+}
+.wishes{
+    font-size: 3em;
+    color: #fff;
+}
+#time-details{
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+}
+.time h2{
+    font-size: 4em;
+}
+.time small{
+    font-size: 2em;
+}
+#year{
+    font-size: 6em;
+    opacity: 50%;
+}
